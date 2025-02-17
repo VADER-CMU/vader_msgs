@@ -49,6 +49,8 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   example.msg
+  end_effector/cutter.msg
+  end_effector/gripper.msg
 )
 
 ## Generate services in the 'srv' folder
