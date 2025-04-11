@@ -65,6 +65,9 @@ add_service_files(
   FILES
   SingleArmPlanRequest.srv
   SingleArmExecutionRequest.srv
+  BimanualPlanRequest.srv
+  BimanualExecRequest.srv
+  MoveToStorageRequest.srv
 )
 
 ## Generate actions in the 'action' folder
