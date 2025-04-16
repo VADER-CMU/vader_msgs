@@ -1,4 +1,4 @@
-geometry_msgs/Point binLocation # bin assumed to be opening on top, in world frame
+geometry_msgs/Pose binLocation # bin assumed to be opening on top, in world frame
 float32 reserve_dist # dist (METERS) to be away from the bin
 ---
 uint8 result
