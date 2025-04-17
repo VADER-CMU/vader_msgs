@@ -2,6 +2,7 @@ uint8 GRIPPER_PREGRASP_EXEC=1
 uint8 GRIPPER_GRASP_EXEC=2
 uint8 CUTTER_GRASP_EXEC=3
 uint8 GRIPPER_TO_BIN_EXEC=4
+uint8 CUTTER_RETREAT=5
 
 uint8 mode #mode of planner (choose one from above). Must match the last planner request call type, or the exec fails for safety
 ---
