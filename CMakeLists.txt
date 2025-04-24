@@ -58,6 +58,8 @@ add_message_files(
   Peduncle.msg
   Fruit.msg
   Pepper.msg
+  SimulationPepperSequence.msg
+  SimulationPopPepper.msg
 )
 
 ## Generate services in the 'srv' folder
