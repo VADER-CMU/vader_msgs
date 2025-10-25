@@ -71,6 +71,7 @@ add_service_files(
   BimanualExecRequest.srv
   MoveToStorageRequest.srv
   GoHomeRequest.srv
+  PlanningRequest.srv
 )
 
 ## Generate actions in the 'action' folder

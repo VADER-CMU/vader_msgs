@@ -1,0 +1,12 @@
+Pepper pepper # Current best estimate of fruit, peduncle
+
+uint8 HOME_CUTTER=1
+uint8 HOME_GRIPPER=2
+uint8 PARALLEL_MOVE_PREGRASP=3
+uint8 GRIPPER_GRASP=4
+uint8 CUTTER_GRASP=5
+uint8 PARALLEL_MOVE_STORAGE=6
+
+uint8 mode # current plan (choose from above)
+---
+uint8 success
