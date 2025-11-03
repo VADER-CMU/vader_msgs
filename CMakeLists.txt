@@ -60,6 +60,7 @@ add_message_files(
   Pepper.msg
   SimulationPepperSequence.msg
   SimulationPopPepper.msg
+  HarvestResult.msg
 )
 
 ## Generate services in the 'srv' folder
