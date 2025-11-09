@@ -58,6 +58,7 @@ add_message_files(
   Peduncle.msg
   Fruit.msg
   Pepper.msg
+  PepperArray.msg
   SimulationPepperSequence.msg
   SimulationPopPepper.msg
   HarvestResult.msg
